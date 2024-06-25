@@ -22,7 +22,9 @@ https://youtu.be/Hol6IXRyPyw
 
 ## 參考資料
 `1. 老師上課講義 & 影片
-`2. Chatgpt
+`2. Chatgpt 
+3. https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
+
 ## 備註
 原本做出來的環境是長這樣，但不知為何有兩扇窗戶轉成gazebo_empty_world時會消失。
 ![螢幕截圖 2024-06-25 18 14 36](https://github.com/Shichi7meow/final-project/assets/100356928/4efeb8b8-ebac-4ca5-8eb6-77e91bd7b88c)
