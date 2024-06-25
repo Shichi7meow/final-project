@@ -12,7 +12,7 @@ roslaunch myrobot_1100336_description gazebo.launch
 
 #### Step 3: 切換目錄
 cd catkin_ws/src/myrobot_1100336_description/scripts
-#### Step 5: 跑程式
+#### Step 4: 跑程式
 rosrun myrobot_1100336_description turtlebot3_random_walk.py
 ## 範例(影片)
 https://youtu.be/Hol6IXRyPyw
